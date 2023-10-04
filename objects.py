@@ -1,5 +1,5 @@
 from math import sqrt, inf, hypot
-from modules.ray import Ray
+from ray import Ray
 import numpy as np
 
 class Object:
